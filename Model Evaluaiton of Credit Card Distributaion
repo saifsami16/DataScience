@@ -1,0 +1,18 @@
+Application of Data Science in Credit Cards distribution
+
+The major issue with banks when they are handing out the credit cards is wether the client be able to afford and manage the card in a good way. So we can phrase the problem as:
+
+"Can we automatically determine which client can afford a credit card?"
+
+There are various steps involved in Data Sceince Methodology. Some of them are discussed briefly in the view of Credit Cards Distribution:
+  
+Analytic Approach:
+A classification model attempts to draw some conclusion from observed values. Given one or more inputs a classification model will try to predict the value of one or more outcomes. So we will use a classification model here.
+Data Requirements:
+The data necessary for our model is the clients data. We will gather all of there financial data, their age, their assets value, their dependents. Every thing that might involve money.
+Data Collection:
+Our main data sources will be our past clients history with which we can access the probability of our new client successfully affording a credit card.
+Data Understanding and Preparation:
+Now, we should use visualization techniques to understand data better. And to determine if additional data is necessary to fill any gaps and also to verify the quality of the data.
+Modeling and Evaluation:
+In this step we will evaluate the outcome of our model, test it if it is suitable for future performance. It will be an iterative test meaning we will redo this step until we are satisfied with the outcome, which will be based on the past clients of the bank.
