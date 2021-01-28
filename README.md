@@ -1,2 +1,2 @@
 # DataScience
-Data Science Certificate course by IBM on Coursera
+Data Science Professional Certificate course by IBM on Coursera
